@@ -26,7 +26,9 @@ function iLoveTheBeatles(num) {
   
   const emptyArray = [];
   
-  do 
+  do {
+    emptyArray.push()
+  } while ()
 }
 
 
