@@ -11,9 +11,10 @@ function theBeatlesPlay(musiciansArray, instrumentsArray) {
 function johnLennonFacts(jlFacts) {
   
   const newJlFactsArray = [];
-  
+  let i = 0;
+    
   while (jlFacts.length) {
-    let i = 0;
+  
     newJlFactsArray.push(`${jlFacts[i]}!!!`);
     i++;
   }
