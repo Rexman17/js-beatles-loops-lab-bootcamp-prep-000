@@ -20,3 +20,11 @@ function johnLennonFacts(jlFacts) {
   }
   return newJlFactsArray;
 }
+
+
+function 
+
+
+
+
+
