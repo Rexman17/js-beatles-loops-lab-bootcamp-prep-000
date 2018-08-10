@@ -15,6 +15,7 @@ function johnLennonFacts(jlFacts) {
   while (jlFacts.length > 0) {
     let i = 0;
     newJlFactsArray.push(`${jlFacts[i]}!!!`);
+    i++;
   }
   
   return newJlFactsArray;
