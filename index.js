@@ -22,7 +22,12 @@ function johnLennonFacts(jlFacts) {
 }
 
 
-function 
+function iLoveTheBeatles(num) {
+  
+  const emptyArray = [];
+  
+  do 
+}
 
 
 
