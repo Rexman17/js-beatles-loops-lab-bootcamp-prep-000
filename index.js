@@ -13,7 +13,7 @@ function johnLennonFacts(jlFacts) {
   const newJlFactsArray = [];
   let i = 0;
     
-  while (jlFacts.length) {
+  while (i < jlFacts.length) {
   
     newJlFactsArray.push(`${jlFacts[i]}!!!`);
     i++;
