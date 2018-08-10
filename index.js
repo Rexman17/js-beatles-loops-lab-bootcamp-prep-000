@@ -18,5 +18,5 @@ function johnLennonFacts(jlFacts) {
     i++;
   }
   
-  return newJlFactsArray;
+  return newJlFactsArray.join(`, `);
 }
